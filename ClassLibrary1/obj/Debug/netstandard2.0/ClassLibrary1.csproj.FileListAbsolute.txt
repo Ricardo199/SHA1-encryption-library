@@ -1,0 +1,10 @@
+C:\Users\Ricardo\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+C:\Users\Ricardo\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\Ricardo\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+C:\Users\Ricardo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+C:\Users\Ricardo\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb
